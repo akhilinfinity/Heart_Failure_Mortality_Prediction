@@ -77,7 +77,7 @@ Machine learning models can effectively classify patients into high-risk and low
 
 Clone this repo:
 
-git clone https://github.com/your-username/Heart-Failure-Mortality-Prediction.git
+git clone https://github.com/akhilinfinity/Heart-Failure-Mortality-Prediction.git
 cd Heart-Failure-Mortality-Prediction
 
 
